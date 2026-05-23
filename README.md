@@ -2,7 +2,7 @@
   <img src="images/banner.jpg" alt="The Chatters" width="100%">
 </p>
 
-# mod-llm-chatter
+# mod-llm-chatter 
 
 **Every hero has a story. Your companions are ready to tell theirs.**
 
